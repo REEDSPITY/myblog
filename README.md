@@ -1,0 +1,2 @@
+# myblog
+output my ideas
